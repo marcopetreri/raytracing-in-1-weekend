@@ -38,3 +38,6 @@ Makefile
 CMake*
 cmake*
 !CMakeLists.txt
+
+# Build folder
+build
